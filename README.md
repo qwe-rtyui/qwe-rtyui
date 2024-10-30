@@ -11,11 +11,11 @@
 
 **Technologies**
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,angular,sass,bootstrap,docker,js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,angular,sass,bootstrap,js,html,css)](https://skillicons.dev)
   
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
   
 **Tools**
 
