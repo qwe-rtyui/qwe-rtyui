@@ -26,4 +26,4 @@
 
 [![Linkedin: Joao](https://img.shields.io/badge/-kesleyjuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesley-juan-666061165/)](https://www.linkedin.com/in/kesley-juan-666061165/)
 [![Gmail Badge](https://img.shields.io/badge/-kesleyjuan.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:kesleyjuan.dev@gmail.com)
-[![GitHub]( https://img.shields.io/github/followers/qwe-rtyui?label=follow&style=social)](https://github.com/https://github.com/qwe-rtyui/)
+[![GitHub]( https://img.shields.io/github/followers/qwe-rtyui?label=follow&style=social)](https://github.com/qwe-rtyui/)
